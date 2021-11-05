@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 1647393383762708}
+  m_IsPrefabAsset: 1
+--- !u!1 &1647393383762708
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4039203006232982}
+  - component: {fileID: 114188339592379854}
+  m_Layer: 8
+  m_Name: WallGenerator
+  m_TagString: Wall
+  m_Icon: {fileID: -964228994112308473, guid: 0000000000000000d000000000000000, type: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4039203006232982
+Transform:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1647393383762708}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 12.189536, y: -2.72, z: -1}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &114188339592379854
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1647393383762708}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 40f60c2954cb848c5a86988f9c0e0edd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  xBlocks: 10
+  yBlocks: 6
+  topLeft: {fileID: 1097844841812820, guid: 6a459576a074544e2a84179762afa050, type: 2}
+  top: {fileID: 1968323022697036, guid: 42de8e2dd34dc4eeda9779cb85c0ef48, type: 2}
+  topRight: {fileID: 1468406457697926, guid: f384b3015021b49a5b7ea3b8f1c22862, type: 2}
+  left: {fileID: 1706968260750832, guid: 4e72bf747e7d748af8d288c2d77cee46, type: 2}
+  center: {fileID: 1504571893615566, guid: b11ee5a981c824461bef35ff2bc927e7, type: 2}
+  right: {fileID: 1108382518636800, guid: fd6c9bcb74ed1497b88a367ffc9cf23b, type: 2}
+  bottomLeft: {fileID: 1324596005460398, guid: 8eb8f5ee294044ab9b381a5b80e15f99, type: 2}
+  bottom: {fileID: 1745651715449370, guid: 72ac1b217e34e49bfb8018d7d926ef11, type: 2}
+  bottomRight: {fileID: 1034434567209136, guid: b514e1015ac1945cd8d7b81138200d66,
+    type: 2}

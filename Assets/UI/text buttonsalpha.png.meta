@@ -1,0 +1,942 @@
+fileFormatVersion: 2
+guid: ec2fa4f2116456e45882791997ce868a
+timeCreated: 1542463007
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: text buttonsalpha_0
+    21300002: text buttonsalpha_1
+    21300004: text buttonsalpha_2
+    21300006: text buttonsalpha_3
+    21300008: text buttonsalpha_4
+    21300010: text buttonsalpha_5
+    21300012: text buttonsalpha_6
+    21300014: text buttonsalpha_7
+    21300016: text buttonsalpha_8
+    21300018: text buttonsalpha_9
+    21300020: text buttonsalpha_10
+    21300022: text buttonsalpha_11
+    21300024: text buttonsalpha_12
+    21300026: text buttonsalpha_13
+    21300028: text buttonsalpha_14
+    21300030: text buttonsalpha_15
+    21300032: text buttonsalpha_16
+    21300034: text buttonsalpha_17
+    21300036: text buttonsalpha_18
+    21300038: text buttonsalpha_19
+    21300040: text buttonsalpha_20
+    21300042: text buttonsalpha_21
+    21300044: text buttonsalpha_22
+    21300046: text buttonsalpha_23
+    21300048: text buttonsalpha_24
+    21300050: text buttonsalpha_25
+    21300052: text buttonsalpha_26
+    21300054: text buttonsalpha_27
+    21300056: text buttonsalpha_28
+    21300058: text buttonsalpha_29
+    21300060: text buttonsalpha_30
+    21300062: text buttonsalpha_31
+    21300064: text buttonsalpha_32
+    21300066: text buttonsalpha_33
+    21300068: text buttonsalpha_34
+    21300070: text buttonsalpha_35
+    21300072: text buttonsalpha_36
+    21300074: text buttonsalpha_37
+    21300076: text buttonsalpha_38
+    21300078: text buttonsalpha_39
+    21300080: text buttonsalpha_40
+    21300082: text buttonsalpha_41
+    21300084: text buttonsalpha_42
+    21300086: text buttonsalpha_43
+    21300088: text buttonsalpha_44
+    21300090: text buttonsalpha_45
+    21300092: text buttonsalpha_46
+    21300094: text buttonsalpha_47
+    21300096: text buttonsalpha_48
+    21300098: text buttonsalpha_49
+    21300100: text buttonsalpha_50
+    21300102: text buttonsalpha_51
+    21300104: text buttonsalpha_52
+    21300106: text buttonsalpha_53
+    21300108: text buttonsalpha_54
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: text buttonsalpha_0
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 904
+        width: 144
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: text buttonsalpha_1
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 907
+        width: 101
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: text buttonsalpha_2
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 908
+        width: 144
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: text buttonsalpha_3
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 894
+        width: 134
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: text buttonsalpha_4
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 888
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: text buttonsalpha_5
+      rect:
+        serializedVersion: 2
+        x: 1075
+        y: 902
+        width: 105
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: text buttonsalpha_6
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 911
+        width: 141
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: text buttonsalpha_7
+      rect:
+        serializedVersion: 2
+        x: 1510
+        y: 915
+        width: 112
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: text buttonsalpha_8
+      rect:
+        serializedVersion: 2
+        x: 1655
+        y: 918
+        width: 122
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: text buttonsalpha_9
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 720
+        width: 117
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: text buttonsalpha_10
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 696
+        width: 136
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: text buttonsalpha_11
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 720
+        width: 132
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: text buttonsalpha_12
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 727
+        width: 128
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: text buttonsalpha_13
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 731
+        width: 111
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: text buttonsalpha_14
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 740
+        width: 136
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: text buttonsalpha_15
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 709
+        width: 94
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: text buttonsalpha_16
+      rect:
+        serializedVersion: 2
+        x: 1460
+        y: 700
+        width: 148
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: text buttonsalpha_17
+      rect:
+        serializedVersion: 2
+        x: 1652
+        y: 723
+        width: 125
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: text buttonsalpha_18
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 510
+        width: 123
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: text buttonsalpha_19
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 519
+        width: 145
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: text buttonsalpha_20
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 528
+        width: 102
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: text buttonsalpha_21
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 560
+        width: 132
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: text buttonsalpha_22
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 546
+        width: 161
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: text buttonsalpha_23
+      rect:
+        serializedVersion: 2
+        x: 1069
+        y: 563
+        width: 127
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: text buttonsalpha_24
+      rect:
+        serializedVersion: 2
+        x: 1266
+        y: 512
+        width: 120
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: text buttonsalpha_25
+      rect:
+        serializedVersion: 2
+        x: 1442
+        y: 552
+        width: 142
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: text buttonsalpha_26
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 354
+        width: 100
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: text buttonsalpha_27
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 362
+        width: 97
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: text buttonsalpha_28
+      rect:
+        serializedVersion: 2
+        x: 1082
+        y: 377
+        width: 108
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: text buttonsalpha_29
+      rect:
+        serializedVersion: 2
+        x: 1460
+        y: 380
+        width: 140
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: text buttonsalpha_30
+      rect:
+        serializedVersion: 2
+        x: 1652
+        y: 485
+        width: 44
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: text buttonsalpha_31
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 360
+        width: 154
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: text buttonsalpha_32
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 360
+        width: 150
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: text buttonsalpha_33
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 342
+        width: 139
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: text buttonsalpha_34
+      rect:
+        serializedVersion: 2
+        x: 1266
+        y: 156
+        width: 130
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: text buttonsalpha_35
+      rect:
+        serializedVersion: 2
+        x: 1648
+        y: 378
+        width: 32
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: text buttonsalpha_36
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 192
+        width: 106
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: text buttonsalpha_37
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 199
+        width: 141
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: text buttonsalpha_38
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 178
+        width: 34
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: text buttonsalpha_39
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 214
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: text buttonsalpha_40
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 204
+        width: 135
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: text buttonsalpha_41
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 212
+        width: 81
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: text buttonsalpha_42
+      rect:
+        serializedVersion: 2
+        x: 1111
+        y: 206
+        width: 85
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: text buttonsalpha_43
+      rect:
+        serializedVersion: 2
+        x: 1448
+        y: 180
+        width: 112
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: text buttonsalpha_44
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 223
+        width: 97
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: text buttonsalpha_45
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 214
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: text buttonsalpha_46
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 16
+        width: 86
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: text buttonsalpha_47
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 31
+        width: 116
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: text buttonsalpha_48
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 22
+        width: 79
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: text buttonsalpha_49
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 36
+        width: 123
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: text buttonsalpha_50
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 24
+        width: 124
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: text buttonsalpha_51
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 11
+        width: 136
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: text buttonsalpha_52
+      rect:
+        serializedVersion: 2
+        x: 1287
+        y: 0
+        width: 97
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: text buttonsalpha_53
+      rect:
+        serializedVersion: 2
+        x: 1450
+        y: 18
+        width: 103
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: text buttonsalpha_54
+      rect:
+        serializedVersion: 2
+        x: 1461
+        y: 105
+        width: 30
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

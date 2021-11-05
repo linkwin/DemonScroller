@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9f186d772bf99e14aa7f6c80a61780cc, type: 3}
+  m_Name: Brimstone_Dark
+  m_EditorClassIdentifier: 
+  m_Sprite: {fileID: 21300000, guid: 6ab718acfe4e24153b5aa60b0e92e89f, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Transform:
+    e00: 1
+    e01: 0
+    e02: 0
+    e03: 0
+    e10: 0
+    e11: 1
+    e12: 0
+    e13: 0
+    e20: 0
+    e21: 0
+    e22: 1
+    e23: 0
+    e30: 0
+    e31: 0
+    e32: 0
+    e33: 1
+  m_InstancedGameObject: {fileID: 0}
+  m_Flags: 1
+  m_ColliderType: 1
+  m_Sprites:
+  - {fileID: 21300000, guid: 6ab718acfe4e24153b5aa60b0e92e89f, type: 3}
+  - {fileID: 21300000, guid: bae6de3c3337c4279afe77c73cd4110c, type: 3}
+  - {fileID: 21300000, guid: a5cc9c257355c48c7909fde9d81c5389, type: 3}
+  - {fileID: 21300000, guid: 848cc27cf9f2d4877ae8963e3546a3e3, type: 3}
+  - {fileID: 21300000, guid: 6ab718acfe4e24153b5aa60b0e92e89f, type: 3}
+  m_Preview: {fileID: 21300000, guid: 6ab718acfe4e24153b5aa60b0e92e89f, type: 3}
+  m_InnerCornerSprites:
+  - {fileID: 21300000, guid: b88a3c676f3a406419b0e1654f25ca6d, type: 3}
+  - {fileID: 21300000, guid: a23c70200587e7941a9b93f45f9ef520, type: 3}
+  - {fileID: 21300000, guid: 9d2f4d214bc70514285ede7550680194, type: 3}
+  - {fileID: 21300000, guid: 8bc4f849d84b5e2429d13db2e87346ab, type: 3}
+  - {fileID: 21300000, guid: 6ab718acfe4e24153b5aa60b0e92e89f, type: 3}
+  m_RotationSprites0:
+  - {fileID: 21300000, guid: 6ab718acfe4e24153b5aa60b0e92e89f, type: 3}
+  - {fileID: 21300000, guid: 6ab718acfe4e24153b5aa60b0e92e89f, type: 3}
+  - {fileID: 21300000, guid: 6ab718acfe4e24153b5aa60b0e92e89f, type: 3}
+  - {fileID: 21300000, guid: 6ab718acfe4e24153b5aa60b0e92e89f, type: 3}
+  m_RotationSprites1:
+  - {fileID: 21300000, guid: bae6de3c3337c4279afe77c73cd4110c, type: 3}
+  - {fileID: 21300000, guid: 012353ecd605848e8acf4879d8debb09, type: 3}
+  - {fileID: 21300000, guid: 33cac5f7abe9348d58737ece272a49b4, type: 3}
+  - {fileID: 21300000, guid: 12fdc47ac5b814b8ea1c3037d9f26007, type: 3}
+  m_RotationSprites2:
+  - {fileID: 21300000, guid: a5cc9c257355c48c7909fde9d81c5389, type: 3}
+  - {fileID: 21300000, guid: e031e87c4425c409fbfcb0f1cbd13a61, type: 3}
+  - {fileID: 21300000, guid: 848cc27cf9f2d4877ae8963e3546a3e3, type: 3}
+  - {fileID: 21300000, guid: e031e87c4425c409fbfcb0f1cbd13a61, type: 3}
+  m_RotationSprites3:
+  - {fileID: 21300000, guid: 848cc27cf9f2d4877ae8963e3546a3e3, type: 3}
+  - {fileID: 21300000, guid: a5cc9c257355c48c7909fde9d81c5389, type: 3}
+  - {fileID: 21300000, guid: e031e87c4425c409fbfcb0f1cbd13a61, type: 3}
+  - {fileID: 21300000, guid: 05ef1c8202a1f4a1aa9c8a88e762f2bb, type: 3}
